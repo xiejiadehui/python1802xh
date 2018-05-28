@@ -1,0 +1,3 @@
+monkey is smart,
+pig is sleeping,
+birds are flying.
